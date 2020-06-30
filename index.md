@@ -6,3 +6,6 @@
 * Hogwarts
 * Hermine
 * Ron
+
+Harry Potter sagte eins:
+> Es sind nicht unsere Fähigkeiten, die zeigen wer wir sind, sondern unsere Entscheidungen.
