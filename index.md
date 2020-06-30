@@ -1,6 +1,6 @@
 # Mein Lieblingscharakter - Harry Potter <h1>
 
-<td>Harry Potter ist ein kleiner Junge der durch seine magischen Zauberkräfte tagtäglich jede Menge Abenteuer und Kämpfe mit Bösewichten oder Schurken erlebt. Er stammt aus dem gleichnamigen Buch, welches von JK Rowling verfasst wurde.</td>
+<td>Harry Potter ist ein kleiner Junge der durch seine magischen ZauberkrÃ¤fte tagtÃ¤glich jede Menge Abenteuer und KÃ¤mpfe mit BÃ¶sewichten oder Schurken erlebt. Er stammt aus dem gleichnamigen Buch, welches von JK Rowling verfasst wurde.</td>
 
 ## Ein Held aus Buch und Film <h2>
 * Hogwarts
@@ -8,4 +8,4 @@
 * Ron
 
 Harry Potter sagte eins:
-> Es sind nicht unsere Fähigkeiten, die zeigen wer wir sind, sondern unsere Entscheidungen.
+> Es sind nicht unsere Fï¿½higkeiten, die zeigen wer wir sind, sondern unsere Entscheidungen.
