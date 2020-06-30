@@ -7,3 +7,5 @@
 * Hermine
 * Ron
 
+Harry Potter sagte eins:
+> Es sind nicht unsere F�higkeiten, die zeigen wer wir sind, sondern unsere Entscheidungen.
